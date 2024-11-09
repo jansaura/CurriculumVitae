@@ -16,10 +16,11 @@ For the visual design of my CV, I've focused on projecting a professional image 
 
 **colour palette**
   - ![#333](https://placehold.co/15x15/333/333.png) `#333`
-  - ![#2E332F](https://placehold.co/15x15/2E332F/2E332F.png) `#2E332F`
-  - ![#2E332F](https://placehold.co/15x15/2E332F/2E332F.png) `#2E332F`
-  - ![#2E332F](https://placehold.co/15x15/2E332F/2E332F.png) `#2E332F`
-  - ![#2E332F](https://placehold.co/15x15/2E332F/2E332F.png) `#2E332F`
+  - ![#f4f4f4](https://placehold.co/15x15/f4f4f4/f4f4f4.png) `#f4f4f4`
+  - ![#e8e8e8](https://placehold.co/15x15/e8e8e8/e8e8e8.png) `#e8e8e8`
+  - ![#cecece](https://placehold.co/15x15/cecece/cecece.png) `#cecece`
+  - ![#fff](https://placehold.co/15x15/fff/fff.png) `#fff`
+  - ![#ffa500](https://placehold.co/15x15/ffa500/ffa500.png) `#ffa500`
 
 ---
 ## Design proposal

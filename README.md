@@ -13,6 +13,6 @@ For the visual design of my CV, I've focused on projecting a professional image 
 ---
 ## Online VC
 
-[**Figma Project Link**](https://jansaura.github.io/CurriculumVitae/)
+[**Github Page Link**](https://jansaura.github.io/CurriculumVitae/)
 
 ---

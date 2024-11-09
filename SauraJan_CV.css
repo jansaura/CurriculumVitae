@@ -68,7 +68,7 @@ a:link {
     transform: translateY(0);
 }
 
-/* We make JAN and only JAN orange */
+/* We set highlight as an orange */
 .highlight {
     color: #ffa500;
 }

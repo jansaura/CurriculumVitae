@@ -29,8 +29,6 @@ Sarah is a seasoned hiring manager who oversees recruitment for various digital 
 - **Efficiency-Focused:** Sarah spends a limited time on each profile, so she values a straightforward layout that presents key information at a glance.
 - **Portfolio and Work Examples:** She looks for a clear showcase of the candidate’s skills, ideally with examples of past work or projects.
 - **Professional Design:** Sarah prefers a professional look with a touch of personality to help gauge cultural fit, but she’s primarily focused on qualifications.
-- **Mobile Accessibility:** Sometimes Sarah checks profiles from her phone, so a mobile-responsive design is essential for accessibility.
-- **Motivation for Visiting the Site:** Sarah found my CV website through an application link and is visiting to review my experience, skills, and potential fit for a role. She’s motivated to       understand my qualifications quickly, view my project examples, and confirm contact details.
 
 ---
 ### Information Architecture

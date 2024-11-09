@@ -3,4 +3,7 @@ I have organized the information on my site to be clear and easy to navigate, al
 For the visual design of my CV, I've focused on projecting a professional image and maintaining readability, while incorporating personal branding elements to avoid a dull appearance. I chose a clean and minimalist design that keeps the    focus on the content without distracting the visitor. I use a neutral color palette—like gray and white—that provides a professional feel. At the same time, I wanted to keep the page from looking too serious, so I added dynamic touches with orange accents, visible in the profile photo, links, and other subtle details. Typography also plays a key role: I selected a modern, sans-serif font for headings and a classic, readable font for the main text. I also employ ample white space around each section to improve visual flow, allowing users to progress through the content without feeling overwhelmed. Images are kept minimal, limited to a professional profile photo and a few project examples, keeping the main focus on the written content. Overall, this visual approach aims to reflect a polished, modern aesthetic that also supports the credibility of my profile, helping me make a strong first impression.
 
 Link to the Figma project:
-  https://www.figma.com/design/mCXXma4ZA05bRkuwNayJBl/JanSaura-CurriculumVitae?m=auto&t=khgJXWgJ92ZFapmL-1
+https://www.figma.com/design/mCXXma4ZA05bRkuwNayJBl/JanSaura-CurriculumVitae?m=auto&t=khgJXWgJ92ZFapmL-1
+
+Link to my CV:
+https://polvilaudg.github.io/HypermediaProject1/

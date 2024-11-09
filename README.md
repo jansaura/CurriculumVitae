@@ -4,11 +4,33 @@
 
 ### User Profile
 
-- Name: Jan Saura Brugué
-- Age: 20
-- Occupation: That's what I'm looking for
-- Location: Girona, Spain
-- Education: UdG, degree on softare engineery
+#### User Persona
+- Name: Sarah Thompson
+- Age: 35
+- Occupation: Hiring Manager at a Digital Agency
+- Location: London, UK
+- Education: Master’s Degree in Business Administration
+- Tech Skills: Familiar with ATS (Applicant Tracking Systems) and LinkedIn; comfortable with basic website navigation
+
+**Background:**
+Sarah is a seasoned hiring manager who oversees recruitment for various digital roles within her agency, including positions in design, development, and content creation. Her schedule is packed, and she typically reviews dozens of candidate profiles in a day. Sarah values a well-organized and professional CV website where she can quickly get an overview of a candidate’s background, skills, and portfolio.
+
+**Goals:**
+- Get a clear sense of the candidate’s professional experience and skills within minutes.
+- Review any past projects or portfolio items to assess the candidate’s technical abilities and creativity.
+- Find contact information easily to initiate follow-up or interview scheduling.
+
+**Frustrations:**
+- Websites with cluttered layouts that make it difficult to find relevant information.
+- Sites that lack essential sections, such as a work experience summary or project examples.
+- Overly complex designs that detract from the professionalism of the presentation.
+
+**Behavior and Needs:**
+- **Efficiency-Focused:** Sarah spends a limited time on each profile, so she values a straightforward layout that presents key information at a glance.
+- **Portfolio and Work Examples:** She looks for a clear showcase of the candidate’s skills, ideally with examples of past work or projects.
+- **Professional Design:** Sarah prefers a professional look with a touch of personality to help gauge cultural fit, but she’s primarily focused on qualifications.
+- **Mobile Accessibility:** Sometimes Sarah checks profiles from her phone, so a mobile-responsive design is essential for accessibility.
+- **Motivation for Visiting the Site:** Sarah found my CV website through an application link and is visiting to review my experience, skills, and potential fit for a role. She’s motivated to       understand my qualifications quickly, view my project examples, and confirm contact details.
 
 ---
 ### Information Architecture
